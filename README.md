@@ -16,6 +16,7 @@
 - 🔭 Currently building **[Forge IDE](https://github.com/sukantamajhi/forge-ide)**, a GPU-rendered code editor written in Rust
 - 🌱 Learning more **Rust**, **Go** and systems programming
 - 📦 Published an npm package: **[api-config](https://github.com/sukantamajhi/api-config)**
+- 🤖 Building **AI-powered products**: recruitment and interviews, pet commerce, and developer productivity tools
 - 💬 Ask me about **JavaScript/TypeScript, Node.js, React/Next.js, NestJS and Spring Boot**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sukanta-majhi/)
 
@@ -62,49 +63,86 @@
 
 ## 🚀 Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| ⚡ [**forge-ide**](https://github.com/sukantamajhi/forge-ide) | A fast, GPU-rendered code editor for Windows built on GPUI. VS Code-style editing, source control, previews and extensions, built to open instantly and stay smooth on large files. | Rust, GPUI |
-| 📦 [**api-config**](https://github.com/sukantamajhi/api-config) | An open-source npm package for API configuration. | TypeScript, npm |
-| 💬 [**talkify**](https://github.com/sukantamajhi/talkify) | A chat/communication app. | TypeScript |
-| 🛒 [**ecom-be**](https://github.com/sukantamajhi/ecom-be) · [**ecom-fe**](https://github.com/sukantamajhi/ecom-fe) | A full-stack e-commerce platform with separate backend and frontend. | Node.js, TypeScript |
-| 📈 [**activity-improver**](https://github.com/sukantamajhi/activity-improver) | A Python automation project. | Python |
-| 📓 [**shared-notebook**](https://github.com/sukantamajhi/shared-notebook) | A collaborative notebook app. | TypeScript |
-| 🏦 [**Banking-Cli-Application**](https://github.com/sukantamajhi/Banking-Cli-Application) | A command-line banking application. | Rust |
-| 🐹 [**go_rest_api**](https://github.com/sukantamajhi/go_rest_api) | A REST API written in Go. | Go |
-| 📚 [**VirtualBookStore-spring-boot**](https://github.com/sukantamajhi/VirtualBookStore-spring-boot) | An online bookstore backend. | Java, Spring Boot |
-| ⏱️ [**Performance-Benchmark-Test**](https://github.com/sukantamajhi/Performance-Benchmark-Test) | Performance benchmarking experiments. | C++ |
+> Projects marked 🔒 are private. Happy to walk through them on request.
 
-<details>
-<summary><b>More projects</b></summary>
+### ⚡ [Forge IDE](https://github.com/sukantamajhi/forge-ide)
+A fast, GPU-rendered code editor for Windows, built in Rust on GPUI. It offers VS Code-style editing, source control, previews and extensions, and is built to open instantly and stay smooth on large files.
 
-- [spring-boot-ecom](https://github.com/sukantamajhi/spring-boot-ecom) and [spring-boot-todo](https://github.com/sukantamajhi/spring-boot-todo): Spring Boot backends
-- [nest_project_test](https://github.com/sukantamajhi/nest_project_test): NestJS experiments
-- [kanban_app](https://github.com/sukantamajhi/kanban_app): Kanban board
-- [Contact-Management](https://github.com/sukantamajhi/Contact-Management): contact manager
-- [growbasket-react](https://github.com/sukantamajhi/growbasket-react): GrowBasket storefront in React
-- [fooddama](https://github.com/sukantamajhi/fooddama): Android food app in Kotlin
-- [nft_drop](https://github.com/sukantamajhi/nft_drop): NFT drop site
-- [nextjs-sanity](https://github.com/sukantamajhi/nextjs-sanity): Next.js with Sanity CMS
-- [todo-app](https://github.com/sukantamajhi/todo-app): todo app
+**Tech focus:** Rust · GPUI · GPU rendering · editor performance
 
-</details>
+### 📦 [api-config](https://github.com/sukantamajhi/api-config)
+An open-source npm package for API configuration, published for other developers to use.
+
+**Tech focus:** TypeScript · npm package publishing
+
+### 🐾 AI-Powered Pet Ecommerce Platform 🔒
+An intelligent pet commerce application that combines a traditional ecommerce experience with personalized pet care assistance.
+
+- Product discovery and ecommerce functionality
+- Pet profiles with personalized recommendations
+- AI-powered shopping assistant and semantic search
+- Automated product reordering and subscriptions
+- Pet care reminders and personalized experiences
+
+**Tech focus:** Full-stack development · AI integration · ecommerce workflows · personalized recommendations
+
+### 🤖 AI-Powered Hiring & Interview Platform 🔒
+A recruitment platform that streamlines candidate screening while keeping recruiters in control of hiring decisions.
+
+- Multi-company recruitment management
+- Job creation and candidate applications
+- Automated interview invitations
+- AI-powered interviews based on resumes and job requirements
+- Structured assessment reports covering technical and behavioral competencies
+- Human-in-the-loop evaluation and recruiter decision-making
+
+**Tech focus:** AI integration · asynchronous workflows · multi-tenant SaaS architecture · real-time interview experiences
+
+### 📄 Document & Invoice Processing Automation 🔒
+A business document processing solution that extracts structured information from invoices, purchase orders and other documents.
+
+- Document parsing without relying on AI
+- Structured data extraction and validation
+- Excel and Word output generation
+- Extensible processing for additional business document types
+
+**Tech focus:** Document processing · data extraction · validation · business automation
+
+### ⏱️ Commit-Based Timesheet Automation 🔒
+An automation tool that turns Git commit activity into meaningful timesheet entries.
+
+- Collects daily commit information
+- Generates structured work summaries
+- Organizes task titles, descriptions and acceptance criteria
+- Reduces manual effort in timesheet preparation
+
+**Tech focus:** Git automation · structured data processing · AI-assisted developer productivity
+
+### 🏁 Race Mentor 🔒
+A project exploring branding and product design. It reflects my interest in building practical applications with a clear identity and a strong user experience.
+
+**Tech focus:** Branding · product design · user experience
 
 ---
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sukantamajhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukantamajhi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution graph"/>
+</p>
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+  <img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sukantamajhi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sukantamajhi&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
