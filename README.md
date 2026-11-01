@@ -138,10 +138,6 @@ A project exploring branding and product design. It reflects my interest in buil
 [![](https://raw.githubusercontent.com/sukantamajhi/sukantamajhi/main/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukantamajhi/sukantamajhi/main/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sukantamajhi/sukantamajhi/main/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sukantamajhi/sukantamajhi/main/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sukantamajhi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ---
 
 <p align="center">⭐ Thanks for stopping by! Feel free to star any repo you find useful. ⭐</p>
