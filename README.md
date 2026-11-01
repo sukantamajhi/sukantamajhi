@@ -121,6 +121,13 @@ An automation tool that turns Git commit activity into meaningful timesheet entr
 ### 🏁 Race Mentor 🔒
 A project exploring branding and product design. It reflects my interest in building practical applications with a clear identity and a strong user experience.
 
+- Lap and session data capture for real-world and sim racing
+- Telemetry analysis (speed, braking, throttle, racing lines)
+- Lap-to-lap and reference-lap comparisons
+- Personalized coaching tips
+- Progress tracking across sessions, cars and tracks
+- Custom branding and product design
+
 **Tech focus:** Branding · product design · user experience
 
 ---
